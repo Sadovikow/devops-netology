@@ -9,3 +9,5 @@
 Новая строчка
 
 Commit from PHPStorm IDE Interface
+
+Сконнектился по токену
