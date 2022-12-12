@@ -7,3 +7,5 @@
 Также заигнорены CLI conf файлы .terraformrc & terraform.cr
 
 Новая строчка
+
+Commit from PHPStorm IDE Interface
